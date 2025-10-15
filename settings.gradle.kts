@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "stopwatch"
 include(":app")
+include(":w03")
+include(":W04")
