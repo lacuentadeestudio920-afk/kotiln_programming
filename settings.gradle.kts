@@ -23,3 +23,4 @@ rootProject.name = "stopwatch"
 include(":app")
 include(":w03")
 include(":W04")
+include(":w06")
