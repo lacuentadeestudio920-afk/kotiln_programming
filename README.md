@@ -11,15 +11,37 @@
 
 ![메인 화면](my_first_app/BMI_App.jpeg)
 
+
+
+
+
+
 W03 앱 화면
 ![w03](https://github.com/user-attachments/assets/1cc3b8af-c731-4867-b0fa-2bef9f395ac2)
+
+
+
+
+
+
 
 W04 앱 화면
 ![w04](https://github.com/user-attachments/assets/b34fd384-6d4a-45aa-9c12-bc87bba0c9b9)
 
 
+
+
+
+
+
+
 W05앱 화면
 ![W05](https://github.com/user-attachments/assets/4721f05a-93e3-48de-bb79-41c9d927c21c)
+
+
+
+
+
 
 
 W06앱 화면
