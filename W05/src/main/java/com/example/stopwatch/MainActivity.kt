@@ -1,4 +1,4 @@
-package com.example.myapplication.ui
+package com.example.stopwatch
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

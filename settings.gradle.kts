@@ -20,9 +20,10 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "stopwatch"
-include(":app")
+include(":W05")
 include(":w03")
 include(":W04")
 include(":w06")
 include(":w3")
 include(":my_first_app")
+include(":cupcake")
