@@ -10,7 +10,7 @@
 - 비만: 30 이상
 
 ![메인 화면](my_first_app/BMI_App.jpeg)
-
+<br>
 
 
 
@@ -18,7 +18,7 @@
 
 W03 앱 화면
 ![w03](https://github.com/user-attachments/assets/1cc3b8af-c731-4867-b0fa-2bef9f395ac2)
-
+<br>
 
 
 
@@ -27,7 +27,7 @@ W03 앱 화면
 
 W04 앱 화면
 ![w04](https://github.com/user-attachments/assets/b34fd384-6d4a-45aa-9c12-bc87bba0c9b9)
-
+<br>
 
 
 
@@ -37,7 +37,7 @@ W04 앱 화면
 
 W05앱 화면
 ![W05](https://github.com/user-attachments/assets/4721f05a-93e3-48de-bb79-41c9d927c21c)
-
+<br>
 
 
 
@@ -72,22 +72,14 @@ Cupcake화면
 <img src="https://github.com/user-attachments/assets/1d18e6c9-835d-4df1-8f96-cc7da8571dcc" width="400" height="auto"/>
 
 
-
-
-
-
-
-
-
-
-
+<br>
 
 2번째 개인 앱 개발. 점심 추천 룰렛(jummechu)
 기본 UI
 
 
 <img src="https://github.com/user-attachments/assets/cab31f7b-23c4-48f6-9514-1048dbab2408" width="400" height="auto"/>
-
+<br>
 
 
 실행영상
