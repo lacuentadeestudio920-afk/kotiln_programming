@@ -54,10 +54,7 @@ W06앱 화면
 
 
 Cupcake화면
-<br>
 <img src="https://github.com/user-attachments/assets/321f73b8-7163-49b1-866d-e37b8edc5bba" width="400" height="auto"/>
-
-
 
 
 
