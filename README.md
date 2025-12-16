@@ -82,7 +82,6 @@ Cupcake화면
 
 
 실행영상
-https://github.com/user-attachments/assets/5cf1c9ea-8a6c-448c-8eca-e9c070d2eb05
-
-음식 메뉴들이 룰렛처럼 돌아가며 랜덤으로 메뉴를 지정해줌
+<video src="https://github.com/user-attachments/assets/5cf1c9ea-8a6c-448c-8eca-e9c070d2eb05.mp4" width="300" controls></video>
+음식 메뉴들이 룰렛처럼 돌아가며 랜덤으로 메뉴를 지정해줌. 가끔 점심 메뉴 결정을 너무 못하겠을 때 이 앱을 써보면 재밌고 맛있는 메뉴들만 넣어놨으니 좋을 것이다. 
 
