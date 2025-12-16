@@ -17,6 +17,7 @@
 
 
 W03 앱 화면
+<br>
 ![w03](https://github.com/user-attachments/assets/1cc3b8af-c731-4867-b0fa-2bef9f395ac2)
 <br>
 
@@ -26,6 +27,7 @@ W03 앱 화면
 
 
 W04 앱 화면
+<br>
 ![w04](https://github.com/user-attachments/assets/b34fd384-6d4a-45aa-9c12-bc87bba0c9b9)
 <br>
 
@@ -36,6 +38,7 @@ W04 앱 화면
 
 
 W05앱 화면
+<br>
 ![W05](https://github.com/user-attachments/assets/4721f05a-93e3-48de-bb79-41c9d927c21c)
 <br>
 
@@ -45,14 +48,13 @@ W05앱 화면
 
 
 W06앱 화면
-![W06](https://github.com/user-attachments/assets/f67f922b-4a87-4f6f-a41b-cd855b374e36)
-
+<br>
 <img src="https://github.com/user-attachments/assets/f67f922b-4a87-4f6f-a41b-cd855b374e36" width="400" height="auto"/>
 
 
 
 Cupcake화면
-
+<br>
 <img src="https://github.com/user-attachments/assets/321f73b8-7163-49b1-866d-e37b8edc5bba" width="400" height="auto"/>
 
 
