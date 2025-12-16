@@ -54,23 +54,17 @@ W06앱 화면
 
 
 Cupcake화면
+<br>
 <img src="https://github.com/user-attachments/assets/321f73b8-7163-49b1-866d-e37b8edc5bba" width="400" height="auto"/>
-
-
+<br>
 
 <img src="https://github.com/user-attachments/assets/ac8f8df1-a4b3-4be4-ad9c-1a81fad51235" width="400" height="auto"/>
-
-
-
+<br>
 
 <img src="https://github.com/user-attachments/assets/4975726a-a6ae-4a75-9187-9997d95da713" width="400" height="auto"/>
-
-
-
+<br>
 
 <img src="https://github.com/user-attachments/assets/1d18e6c9-835d-4df1-8f96-cc7da8571dcc" width="400" height="auto"/>
-
-
 <br>
 
 2번째 개인 앱 개발. 점심 추천 룰렛(jummechu)
