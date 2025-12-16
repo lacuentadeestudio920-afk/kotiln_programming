@@ -77,6 +77,8 @@ Cupcake화면
 
 2번째 개인 앱 개발. 점심 추천 룰렛(jummechu)
 기본 UI
+
+
 <img src="https://github.com/user-attachments/assets/cab31f7b-23c4-48f6-9514-1048dbab2408" width="400" height="auto"/>
 
 
