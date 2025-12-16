@@ -9,13 +9,15 @@
         <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/W04" />
-            <option value="$PROJECT_DIR$/W05" />
-            <option value="$PROJECT_DIR$/my_first_app" />
-            <option value="$PROJECT_DIR$/w03" />
-            <option value="$PROJECT_DIR$/w06" />
-            <option value="$PROJECT_DIR$/w3" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/W04" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/W05" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/cupcake" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/jummechu" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/my_first_app" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/w03" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/w06" />
+            <option value="$USER_HOME$/플러터_파일들/stopwatch/w3" />
           </set>
         </option>
       </GradleProjectSettings>

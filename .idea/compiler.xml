@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
       <module name="stopwatch.app" target="21" />
+      <module name="stopwatch.fake" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
