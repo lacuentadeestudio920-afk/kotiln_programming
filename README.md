@@ -71,3 +71,18 @@ Cupcake화면
 
 
 
+
+
+
+
+2번째 개인 앱 개발. 점심 추천 룰렛(jummechu)
+기본 UI
+![jummechu](https://github.com/user-attachments/assets/cab31f7b-23c4-48f6-9514-1048dbab2408)
+
+
+
+실행영상
+https://github.com/user-attachments/assets/5cf1c9ea-8a6c-448c-8eca-e9c070d2eb05
+
+음식 메뉴들이 룰렛처럼 돌아가며 랜덤으로 메뉴를 지정해줌
+
