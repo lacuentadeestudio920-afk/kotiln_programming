@@ -47,27 +47,32 @@ W05앱 화면
 W06앱 화면
 ![W06](https://github.com/user-attachments/assets/f67f922b-4a87-4f6f-a41b-cd855b374e36)
 
-
+<img src="https://github.com/user-attachments/assets/f67f922b-4a87-4f6f-a41b-cd855b374e36" width="400" height="auto"/>
 
 
 
 Cupcake화면
-![cupcake](https://github.com/user-attachments/assets/321f73b8-7163-49b1-866d-e37b8edc5bba)
+
+<img src="https://github.com/user-attachments/assets/321f73b8-7163-49b1-866d-e37b8edc5bba" width="400" height="auto"/>
+
+
+
+<img src="https://github.com/user-attachments/assets/ac8f8df1-a4b3-4be4-ad9c-1a81fad51235" width="400" height="auto"/>
 
 
 
 
-![cupcake](https://github.com/user-attachments/assets/ac8f8df1-a4b3-4be4-ad9c-1a81fad51235)
+<img src="https://github.com/user-attachments/assets/4975726a-a6ae-4a75-9187-9997d95da713" width="400" height="auto"/>
 
 
 
 
-![cupcake](https://github.com/user-attachments/assets/4975726a-a6ae-4a75-9187-9997d95da713)
+<img src="https://github.com/user-attachments/assets/1d18e6c9-835d-4df1-8f96-cc7da8571dcc" width="400" height="auto"/>
 
 
 
 
-![cupcake](https://github.com/user-attachments/assets/1d18e6c9-835d-4df1-8f96-cc7da8571dcc)
+
 
 
 
